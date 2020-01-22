@@ -1,0 +1,10 @@
+gounstrip
+gounstrip.debug
+gounstrip.full
+*.o
+TAGS
+.depend*
+libelf
+libelftc
+common
+elfcopy
