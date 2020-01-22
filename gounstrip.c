@@ -1,5 +1,7 @@
-/*
- * Copyright 2020 Conrad Meyer
+/*-
+ * Copyright 2020 Conrad Meyer <cem@FreeBSD.org>.  All rights reserved.
+ *
+ * SPDX-License-Identifier: WTFNMFPL-1.0
  */
 #include <sys/types.h>
 
